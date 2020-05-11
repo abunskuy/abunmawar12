@@ -1,5 +1,6 @@
 package akbar2.abun.Latihan_bab1
 
+import akbar2.abun.bab1.R
 import androidx.lifecycle.ViewModelProviders
 import android.os.Bundle
 import androidx.fragment.app.Fragment
